@@ -19,7 +19,8 @@ Son los objetos que ejecutaran las funcines base
 ### BaseDecorator
 
 Es donde se determinaran las funciones adicinales que se desean agregar
-Obtenes las funciones base de los ConcreteComponents atravez del Component
+
+Obtiene las funciones base de los ConcreteComponents atravez del Component
 
 ### ConcreteDecorator
 
